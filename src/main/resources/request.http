@@ -1,0 +1,8 @@
+GET http://localhost:8080/call-b
+Accept: application/json
+
+###
+GET http://localhost:8080/call-b-async
+Accept: application/json
+
+###
